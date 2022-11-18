@@ -1,5 +1,11 @@
 <html>
 <head>
 <title>dream team</title>
+h1 git login
+h2 install the app
+h3 git bash
+h4 coding program 
+h5 actions
+h6 projects
 </head>
 </html>
